@@ -18,13 +18,14 @@ I’m a passionate **Software Engineer** with a love for **coding**, and **3D de
 ---
 
 ## 💼 Find Me on LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank M N-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-m-n7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank%20M%20N-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-m-n7/)
 
 ## 💻 My LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shashank M N-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shashank0077/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shashank%20M%20N-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shashank0077/)
 
 ## 🔥 My GeeksforGeeks Profile
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Shashank M N-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/shashanjx8q/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Shashank%20M%20N-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/shashanjx8q/)
+
 
 ---
 
