@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-<p align="center">
-  <img src="https://your-motion-banner.gif" alt="Live Motion Cover with My Name">
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Shashank!&fontSize=40&fontAlignY=40&fontColor=fff)
 
 ## 🚀 Software Engineer | Tech Explorer | Problem Solver  
 
