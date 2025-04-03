@@ -42,5 +42,6 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 </p>
 
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shashank007-debug&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shashank007-debug&label=Profile%20Views&color=blue&style=flat)
+
 
