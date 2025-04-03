@@ -76,6 +76,5 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 ![Profile Views](https://komarev.com/ghpvc/?username=shashank007-debug&label=Profile%20Views&color=blue&style=flat)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashank007-debug/shashank007-debug/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashank007-debug/shashank007-debug/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shashank007-debug/shashank007-debug/output/github-snake.svg" />
 </picture>
