@@ -27,12 +27,12 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # ✅ Ensure you set this correctly in GitHub Secrets
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GH_PAT }}  # ✅ Use GH_PAT here as well if using PAT
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
