@@ -53,9 +53,9 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 
 ---
 
-## 📌 LeetCode Stats (Modern Design):
+## 📌 LeetCode Stats (Streak & Solved Problems):
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=contest,heatmap&animation=true&border=none" width="60%">
+  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=contest,heatmap,streak,solved&animation=true&border=none" width="60%">
 </p>
 
 ---
