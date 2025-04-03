@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ff758c,100:ff7eb3&height=200&section=header&text=Hey,%20I'm%20Shashank!&fontSize=40&fontAlignY=40&fontColor=fff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Hey,%20I'm%20Shashank!&fontSize=40&fontAlignY=40&fontColor=fff&animation=fadeIn)
 
 ## 🚀 Software Engineer | Tech Explorer | Problem Solver  
 
@@ -53,7 +53,7 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 
 ## 📌 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=unicorn&ext=activity&border=0&radius=20&animation=true">
 </p>
 
 ---
