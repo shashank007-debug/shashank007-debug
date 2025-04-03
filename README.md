@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Hey,%20I'm%20Shashank!&fontSize=40&fontAlignY=40&fontColor=fff&animation=fadeIn)
+<p align="center">
+  <img src="https://your-banner-link.gif" alt="Live Motion Cover with My Name">
+</p>
 
 ## 🚀 Software Engineer | Tech Explorer | Problem Solver  
 
@@ -51,9 +53,9 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 
 ---
 
-## 📌 LeetCode Stats:
+## 📌 LeetCode Stats (Modern Design):
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=unicorn&ext=activity&border=0&radius=20&animation=true">
+  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=contest,heatmap&animation=true&border=none" width="60%">
 </p>
 
 ---
