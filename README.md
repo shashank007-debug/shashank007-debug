@@ -1,24 +1,45 @@
 # 💫 About Me:
-Here’s a more engaging and dynamic GitHub profile description:  <br><br>---<br><br>## 👋 Hey, I'm Shashank!  <br><br>🚀 **Software Engineer | Tech Explorer | Problem Solver**  <br><br>Passionate about crafting clean, scalable, and efficient software solutions. I love turning complex problems into elegant, functional code. Whether it’s backend logic, frontend magic, or system architecture—I’m always up for a challenge!  <br><br>### ⚡ What I Do:  <br>🔹 **Code & Build** – Creating robust applications with cutting-edge technologies  <br>🔹 **Learn & Innovate** – Exploring new frameworks, tools, and best practices  <br>🔹 **Collaborate & Share** – Open-source contributions & knowledge sharing  <br><br>### 🔥 Tech Stack:  <br>💻 **Languages:** [Java, JEE, JDBC, JSP, JPA, HTML5, CSS3]  <br>🛠 **Frameworks & Tools:** [Spring, Spring Boot]  <br><br><br>### 🚀 Featured Projects  <br>Check out my repositories for cool projects, innovative ideas, and some fun side experiments!  <br><br>📫 **Let’s Connect!**   <br>Drop me a message, fork a repo, or just say hi—always open to collaborations!  <br><br>---<br>
+## 👋 Hey, I'm Shashank!  
 
+🚀 **Software Engineer | Tech Explorer | Problem Solver**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-m-n7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankmn0077@gmail.com) 
+Passionate about building clean, scalable, and efficient software solutions. I love solving complex problems and bringing ideas to life with technology.  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shashank007-debug&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank007-debug&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### ⚡ What I Do:
+- 🔹 **Code & Build** – Crafting robust applications with modern technologies  
+- 🔹 **Learn & Innovate** – Exploring new frameworks, tools, and best practices  
+- 🔹 **Collaborate & Share** – Open-source contributions & knowledge sharing  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashank007-debug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-m-n7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankmn0077@gmail.com)
+
+## 🚀 Featured Projects:
+Check out my repositories for cool projects, innovative ideas, and fun side experiments!  
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank007-debug&theme=aura_dark&hide_border=true" width="48%" alt="GitHub Streak">
+</p>
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank007-debug&theme=radical&no-bg=true&margin-w=4">
+</p>
+
+## ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashank007-debug&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=shashank007-debug&icon=0&color=0)
