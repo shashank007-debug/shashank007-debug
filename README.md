@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://your-banner-link.gif" alt="Live Motion Cover with My Name">
+  <img src="/mnt/data/A_3D-rendered_digital_animation_GIF_features_Itach.png" alt="Live Motion Cover with My Name">
 </p>
 
 ## 🚀 Software Engineer | Tech Explorer | Problem Solver  
@@ -53,9 +53,9 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 
 ---
 
-## 📌 LeetCode Stats (Streak & Solved Problems):
+## 📌 LeetCode Stats (Enhanced View):
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=contest,heatmap,streak,solved&animation=true&border=none" width="60%">
+  <img src="https://leetcard.jacoblin.cool/Shashank0077?theme=dark&font=Source%20Code%20Pro&ext=contest,heatmap,streak&animation=true&border=none" width="60%">
 </p>
 
 ---
