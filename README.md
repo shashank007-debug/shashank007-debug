@@ -39,7 +39,7 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank007-debug&theme=aura_dark&hide_border=true" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.demolab.com?user=shashank007-debug&theme=aura-dark&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
 ---
@@ -55,7 +55,6 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shashank0077?ext=activity&theme=dark&font=Source%20Code%20Pro" width="60%">
 </p>
-
 
 ---
 
@@ -82,6 +81,3 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashank007-debug&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
-
-
-
