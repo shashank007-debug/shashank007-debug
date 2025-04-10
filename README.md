@@ -38,8 +38,7 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=shashank007-debug&theme=aura-dark&hide_border=true" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="60%" alt="GitHub Stats">
 </p>
 
 ---
