@@ -40,6 +40,11 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="60%" alt="GitHub Stats">
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shashank007-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
 
 ---
 
