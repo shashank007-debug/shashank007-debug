@@ -37,27 +37,32 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 ---
 
 ## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=aura_dark&hide_border=true&show_icons=true" width="60%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank007-debug&theme=tokyonight&hide_border=true&show_icons=true" width="60%" alt="GitHub Stats">
 </p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=shashank007-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
+
 ---
 
 ## 🏆 GitHub Trophies:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashank007-debug&theme=radical&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank007-debug&theme=tokyonight&no-bg=true&margin-w=4">
 </p>
 
 ---
 
 ## 📌 LeetCode Stats:
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shashank0077?ext=activity&theme=dark&font=Source%20Code%20Pro" width="60%">
+  <img src="https://leetcard.jacoblin.cool/Shashank0077?ext=activity&theme=darcula&font=Fira%20Code" width="60%">
 </p>
 
 ---
