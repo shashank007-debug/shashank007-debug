@@ -43,10 +43,12 @@ Check out my repositories for cool projects, innovative ideas, and fun side expe
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shashank007-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <a href="https://streak-stats.demolab.com?user=shashank007-debug">
+    <img src="https://streak-stats.demolab.com?user=shashank007-debug&theme=onedark&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
+
+
 
 
 ---
